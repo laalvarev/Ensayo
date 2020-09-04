@@ -1,2 +1,2 @@
-# Ensayo
-Repositorio de prueba
+# Reconocimiento de voz
+El reconocimiento de voz es un tipo de inteligencia artificial que trata de establecer una comunicación entre el hombre y los ordenadores o dispositivos inteligentes, a través del lenguaje humano. El mecanismo de reconocimiento de voz hace que el procesador sea capaz de descifrar la información que contiene la voz humana. Los primeros pasos en este aspecto comenzaron en los años 50, pero ha sido en la última década cuando se ha hecho un avance gigantesco en el reconocimiento del lenguaje natural.
